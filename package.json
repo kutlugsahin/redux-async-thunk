@@ -1,0 +1,22 @@
+{
+  "name": "redux-async-thunk",
+  "version": "1.0.2",
+  "description": "Expension for Redux thunk middleware to support AsyncFunction and GeneratorFuntion types to enable async/await generator/yield syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "async",
+    "await",
+    "yield",
+    "middleware"
+  ],
+  "author": "kutlugsahin@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async_polyfill": "^1.0.2"
+  }
+}
