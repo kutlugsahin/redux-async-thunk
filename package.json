@@ -1,6 +1,6 @@
 {
   "name": "redux-async-thunk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Expension for Redux thunk middleware to support AsyncFunction and GeneratorFuntion types to enable async/await generator/yield syntax",
   "main": "index.js",
   "scripts": {
