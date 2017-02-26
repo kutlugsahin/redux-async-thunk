@@ -1,7 +1,7 @@
 {
   "name": "redux-async-thunk",
   "version": "1.0.4",
-  "description": "Expension for Redux thunk middleware to support AsyncFunction and GeneratorFuntion types to enable async/await generator/yield syntax",
+  "description": "Expansion for Redux thunk middleware to support AsyncFunction and GeneratorFuntion types to enable async/await generator/yield syntax",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
